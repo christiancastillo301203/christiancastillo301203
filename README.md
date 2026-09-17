@@ -71,9 +71,3 @@ End-to-end financial analytics project using SQL for data extraction and aggrega
 Spanish — Native  
 English — Advanced  
 German — Basic
-
----
-
-## Connect
-
-[LinkedIn](www.linkedin.com/in/christiancastillo03)
