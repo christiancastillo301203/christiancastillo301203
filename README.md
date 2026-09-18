@@ -29,10 +29,10 @@ Independent valuation of a publicly traded company using financial statements an
 
 ---
 
-### Financial Statements BI Reporting
-**Power BI | Power Query | DAX | Financial Reporting**
+### Financial Statements Reporting & Analysis
+**Power BI | Power Query | DAX | Excel | Financial Reporting**
 
-Interactive financial reporting solution built from raw financial data, including dynamic income statement reporting, period comparisons, financial KPIs and variance analysis.
+End-to-end financial reporting project transforming transaction-level general ledger data into an interactive Income Statement and Balance Sheet in Power BI, with an indirect Cash Flow Statement in Excel, financial KPIs, and accounting reconciliation controls.
 
 [View Project](https://github.com/christiancastillo301203/financial-statements-bi-reporting)
 
