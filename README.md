@@ -34,7 +34,7 @@ Independent valuation of a publicly traded company using financial statements an
 
 Interactive financial reporting solution built from raw financial data, including dynamic income statement reporting, period comparisons, financial KPIs and variance analysis.
 
-[View Project]((https://github.com/christiancastillo301203/financial-statements-bi-reporting))
+[View Project](https://github.com/christiancastillo301203/financial-statements-bi-reporting)
 
 ---
 
