@@ -48,15 +48,6 @@ Interactive Tableau dashboard designed to analyze market data, historical perfor
 
 ---
 
-### Finance Analytics
-**SQL | Python | Business Intelligence**
-
-End-to-end financial analytics project using SQL for data extraction and aggregation, Python for analysis and validation, and business intelligence tools for executive reporting.
-
-*Project in development.*
-
----
-
 ## Certifications
 
 - Financial Modeling & Valuation Analyst (FMVA®) — Corporate Finance Institute
