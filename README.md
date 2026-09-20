@@ -25,7 +25,7 @@ Monthly FP&A model integrating historical performance, budget, actuals and rolli
 
 Independent valuation of a publicly traded company using financial statements and SEC filings, including operating forecasts, unlevered free cash flow, WACC, terminal value and sensitivity analysis.
 
-*Project in development.*
+[View Project](https://github.com/christiancastillo301203/coca-cola-dcf-valuation)
 
 ---
 
