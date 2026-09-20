@@ -20,10 +20,11 @@ Monthly FP&A model integrating historical performance, budget, actuals and rolli
 
 ---
 
-### DCF Valuation
+### The Coca-Cola Company — DCF Valuation
+
 **Excel | Corporate Finance | Valuation | Financial Modeling**
 
-Independent valuation of a publicly traded company using financial statements and SEC filings, including operating forecasts, unlevered free cash flow, WACC, terminal value and sensitivity analysis.
+Five-year Enterprise Value DCF built from public filings, featuring driver-based forecasting, historical EBIT normalization, bottom-up beta WACC, mid-year discounting, EV-to-equity reconciliation, scenario modeling, and sensitivity analysis.
 
 [View Project](https://github.com/christiancastillo301203/coca-cola-dcf-valuation)
 
