@@ -40,11 +40,12 @@ End-to-end financial reporting project transforming transaction-level general le
 ---
 
 ### Market Analytics Dashboard
-**Tableau | Data Visualization | Financial Markets**
 
-Interactive Tableau dashboard designed to analyze market data, historical performance, trends and key indicators.
+**Python | SQL Server | Tableau | Financial Markets**
 
-*Project in development.*
+End-to-end market analytics project integrating market data extraction, an incremental Python/SQL pipeline, financial risk and return analytics, and interactive Tableau dashboards across a 25-security U.S. equity universe.
+
+**[View Project](https://github.com/christiancastillo301203/market-analytics-tableau)**
 
 ---
 
